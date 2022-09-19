@@ -1,0 +1,6 @@
+.box{
+    border: solid red;
+    width:clamp(300px , 50% ,800px);
+    height: 100px;
+    margin: auto;
+}

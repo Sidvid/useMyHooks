@@ -1,0 +1,23 @@
+.status {
+    border: solid red;
+    height: 80px;
+    position: sticky;
+    top: 0;
+    background-color: aqua;
+    color: red;
+    font-size: xx-large;
+}
+
+.container-one {
+    border: solid magenta;
+}
+
+.contaiber-two {
+    border: solid mediumaquamarine;
+
+}
+
+.container-three {
+    border: solid mediumorchid;
+
+}
